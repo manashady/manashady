@@ -1,13 +1,14 @@
 ## Hi there 👋
-## I am Manas Bachkheti
-## A Petroleum Geoscientist and Energy Analyst 
+## I am Manas Bachkheti A Petroleum Geoscientist and Energy Analyst
 
 ## Things I am roaming around:
-
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,linkedin,mysql,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=discord,github,linkedin,vscode" />
   </a>
 </p>
+
+## Stuff I can work on: 
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=stata,powerbi,microsoftpowerpoint,microsoftexcel,python,sql,numpy,pandas,scipy" />
 
 <!--
 **manashady/manashady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
