@@ -5,10 +5,16 @@
 <img src="https://skills.syvixor.com/api/icons?perline=15&i=stata,powerbi,microsoftpowerpoint,microsoftexcel,python,sql,numpy,pandas,scipy" />
 
 ## Connect with me:
-<img src="https://skillicons.dev/icons?i=discord,github,linkedin" />
 
-
-
+<p>
+   </a>
+  <a href="https://github.com/manashady" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/manas-bachkheti-a33187210" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 
 
