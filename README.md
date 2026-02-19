@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+##I am Manas Bachkheti
+## A Petroleum Geoscientist and Energy Analyst 
+
+## Things I am roaming around
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,github,linkedin,mysql,py,vscode" />
+  </a>
+</p>
+
 <!--
 **manashady/manashady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
