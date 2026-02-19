@@ -3,7 +3,7 @@
 ## A Petroleum Geoscientist and Energy Analyst 
 
 ## Things I am roaming around:
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,github,linkedin,mysql,py,vscode" />
   </a>
