@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##I am Manas Bachkheti
+## I am Manas Bachkheti
 ## A Petroleum Geoscientist and Energy Analyst 
 
 ## Things I am roaming around:
