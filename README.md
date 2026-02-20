@@ -1,10 +1,10 @@
 ## Hi there 👋
-## I am Manas Bachkheti, a Petroleum Geoscientist and Energy Analyst
+### I am Manas Bachkheti, a Petroleum Geoscientist and Energy Analyst
 
-## Skills: 
+### Skills: 
 <img src="https://skills.syvixor.com/api/icons?perline=15&i=stata,powerbi,microsoftpowerpoint,microsoftexcel,python,sql,numpy,pandas,scipy" />
 
-## Connect with me:
+### Connect with me:
 
 <p>
    </a>
